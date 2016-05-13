@@ -1,1 +1,1 @@
-<?php echo "Version 2.0, ".$_SERVER['SERVER_ADDR'] ;?>
+<?php echo "Version 2.1, ".$_SERVER['SERVER_ADDR'] ;?>
